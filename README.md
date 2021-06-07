@@ -1,3 +1,3 @@
 # CNN
 
-First, execute generateNumpyfromImage.py
+First, execute generateNumpyArrayfromImage.py to create numpy file from image files. 
